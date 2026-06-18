@@ -38,25 +38,22 @@ Graduado en **Desarrollo de Aplicaciones Web (DAW)**, proactivo y resolutivo. Me
 
 ## 📁 Proyectos Destacados
 
-*   **[CAR-PES / TFG](https://github.com/Sergiomartin1907/CAR-PES)** 🎣  
-    *Mi Proyecto de Fin de Grado.* Una red social geolocalizada para aficionados a la pesca. Gestión avanzada de sesiones, mapas interactivos, base de datos y autenticación de usuarios.
-*   **[BancoReact](https://github.com/Sergiomartin1907/BancoReact)** 🏦  
+* **[CAR-PES (TFG)](https://github.com/Sergiomartin1907/CAR-PES)** 🎣 | 🌐 **[Demo en Vivo](https://car-pes.vercel.app)** *Mi Proyecto de Fin de Grado.* Una red social geolocalizada para aficionados a la pesca. Gestión avanzada de sesiones, mapas interactivos, base de datos y autenticación de usuarios.
+* **[BancoReact](https://github.com/Sergiomartin1907/BancoReact)** 🏦  
     Aplicación web enfocada en el control del estado y flujos lógicos en React, simulando operaciones financieras, transacciones y balances en tiempo real.
-*   **[MovieMood](https://github.com/Sergiomartin1907/moviemood)** 🎬  
-    Plataforma web interactiva para la búsqueda y recomendación de películas basada en estados de ánimo, conectando con APIs de terceros.
 
 ---
 
 ## 💼 Experiencia Práctica Reciente
 
-*   **Desarrollador Web & Especialista SEO** en *Guadalweb* (Prácticas)  
+* **Desarrollador Web & Especialista SEO** en *Guadalweb* (Prácticas)  
     Prototipado e integración UI/UX en Figma, desarrollo a medida en WordPress, optimización de velocidad de carga y posicionamiento SEO integral. Automatización de flujos de trabajo internos conectando **Google AI Studio**.
-*   **Desarrollador Web** en *Aranjuez en un click* (Prácticas)  
+* **Desarrollador Web** en *Aranjuez en un click* (Prácticas)  
     Maquetación Frontend (HTML5, CSS3, JS, Bootstrap) y gestión de contenidos optimizados para motores de búsqueda.
 
 ---
 
 ## 📬 Contacto
 
-*   **📍 Ubicación:** Madrid / Alcalá de Henares (Disponibilidad total y vehículo propio)
-*   **📧 Email:** sergiomartinrodriguez99@outlook.es
+* **📍 Ubicación:** Madrid / Alcalá de Henares (Disponibilidad total y vehículo propio)
+* **📧 Email:** sergiomartinrodriguez99@outlook.es
